@@ -1,0 +1,35 @@
+{
+    "address": "2130-2136 SW 5th Avenue, Portland, Oregon 97201-4908",
+    "occupants": [
+        "Institute for Natural Resources",
+        "School of Art & Design",
+        "US Geological Survey - Oregon Water Science Center (tenant)"
+    ],
+    "features": [
+        "All Gender Restrooms: Three single-occupancy restrooms in the following locations:",
+        "Floor 1 - Room 111A",
+        "Floor 1 - Room 115C",
+        "Floor 1 - Room 115D",
+        "Bike Parking (Indoor)",
+        "Student Lounge",
+        "Car Parking"
+    ],
+    "maps": [
+        "SCIENCE AND EDUCATION CENTER FLOORPLANS.PDF",
+        "SEC ACCESSIBLE NARRATIVE.PDF",
+        "SEC AREA CALCULATION PLANS.PDF"
+    ],
+    "about": [
+        "The Science and Education Center (SEC) is at the corner of SW 5th Avenue and Lincoln Street at the southern edge of the PSU campus. The building was constructed in two sections for the Dan Davis Corporation; the southern half was completed in 1958 and the northern half addition was completed in 1960.  Both halves were designed by the architect, Harry L. Percy, Jr. The building was acquired by PSU in 2002. SEC's small parking lot features 15 vehicle spaces.",
+        "Building Naming History",
+        "Science and Education Center (SEC), 2007-present",
+        "Fifth Avenue Business Center (FBC), 1958-2007"
+    ],
+    "details": [
+        "Square Footage:",
+        "Building Square Footage: 36,852",
+        "Building Net Assignable Square Footage: 29,933",
+        "Parking Gross Square Footage: 7,493",
+        "Parking Net Assignable Square Footage: 6,570"
+    ]
+}

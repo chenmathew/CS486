@@ -1,0 +1,32 @@
+{
+    "address": "625 SW Jackson Street, Portland, Oregon 97201-4922",
+    "occupants": [
+        "OIT Computer Lab",
+        "University Housing & Residence Life Offices"
+    ],
+    "features": [
+        "Computer Lab",
+        "Retail",
+        "Student Lounge",
+        "University Housing",
+        "Food & Drink"
+    ],
+    "maps": [
+        "BROADWAY RESIDENCE HALL FLOORPLANS.PDF",
+        "BDWY ACCESSIBLE NARRATIVE.PDF",
+        "BDWY AREA CALCULATION PLANS.PDF"
+    ],
+    "about": [
+        "Broadway Residence Hall is an eleven-story student residence located at the corner of SW Broadway and Jackson Street. Broadway is an L-shaped structure with its northern-wing extending to SW College Street and its eastern-wing to SW 6th Ave. Broadway Hall is the building just west of University Pointe and across the street east of the Shattuck Hall parking lot.",
+        "The housing portion of the building operates Fall through Spring terms and consists of furnished studio apartments for both first-year students and upperclassmen. Amenities include kitchenettes with 2-burner stoves (no oven) and mini fridges, private bathrooms (showers but no bathtubs), polished cement floors, and lounges on every other floor. There are classrooms and a computer laboratory located on the second floor and retail businesses dominate the ground floor.",
+        "Designed by Otak, Broadway was completed in 2004 and achieved LEED Silver Certification for its environmentally friendly features which includes: an 18,000 sq. foot Eco-roof, a climate responsive design to reduce reliance on energy consumptive mechanical and electrical systems, low flow water fixtures, high performance window glass, and less toxic room finishes. The Broadway received a 2005 BEST Award for Storm water Management."
+    ],
+    "details": [
+        "Square Footage",
+        "Gross Square Footage: 220,399",
+        "Net Assignable Square Footage: 143,313",
+        "Building Code: BDWY",
+        "Number of Levels: 11",
+        "Year(s) Built: 2004"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "address": "1620 SW Park Avenue, Portland, Oregon 97201",
+    "occupants": [
+        "College of the Arts -- Dean's Office",
+        "School of Music & Theater",
+        "School of Film"
+    ],
+    "features": [
+        "All Gender Restrooms:",
+        "Room 17 (basement; around the corner from women's restroom; single occupancy)",
+        "Room 144 (single occupancy)",
+        "Room 344 (single occupancy)",
+        "Lactation Space: Room 244",
+        "Sky Bridge Access",
+        "Auditorium/ Event Space",
+        "Tunnel Access",
+        "Cinema/Theater"
+    ],
+    "maps": [
+        "LINCOLN HALL FLOORPLANS.PDF",
+        "LH AREA CALCULATION PLANS.PDF",
+        "LH ACCESSIBLE NARRATIVE.PDF"
+    ],
+    "about": [
+        "Lincoln Hall was the first building that PSU occupied when it moved to the South Park Blocks. It stands at the intersection of SW Market and Broadway, with the Park Blocks to the west and Cramer Hall to the south. The building has three floors above ground and a basement. A tunnel from the basement leads south to Cramer Hall, and a covered sky-bridge from the third floor connects to the third floor of Cramer. ",
+        "Lincoln Hall houses PSU's performing arts programs and includes several practice rooms, studios, auditoriums and theaters. On the basement level is the Boiler Room Acting Studio and a small auditorium, the Music Performance Hall. The Main Performance Hall is a large auditorium on the first floor which features full curtains and lighting and is frequently hosts concerts, theater productions, and lectures. Another small space, the Studio Theater, is used for more intimate, experimental student productions and rehearsals.",
+        "Building Naming History:",
+        "Lincoln Hall (LH), 1972-present",
+        "Old Main (OM), 1956-1972",
+        "Portland State Extension Center Building, 1952-1956",
+        "Lincoln High School, 1911-1949",
+        "Built in 1911, Lincoln Hall was originally Lincoln High School until the school outgrew the building and relocated to SW 16th Avenue and Salmon Street in April 1949. The building was acquired by Portland State for $875,000 in 1949 as part of the Wilhelm-Logan bill that made PSU a permanent institution. Re-named Old Main, the building opened for classes in Fall 1952 and served as Portland State's primary building until the construction of State Hall (now Cramer Hall) starting in 1955. Between 1972 and 1975, Lincoln was converted into a Performing Arts structure and it was during the initiation of this project that the building first came to be called Lincoln Hall rather than Old Main. Lincoln Hall has been through several major upgrades during its lifetime including a major renovation and seismic retrofit in 2011 followed by a glass tower addition on the Broadway side of the building in 2014."
+    ],
+    "details": [
+        "Square Footage",
+        "Gross Square Footage: 145,139",
+        "Net Assignable Square Footage: 77,511",
+        "Building Code: LH",
+        "Number of Levels: 4",
+        "Year(s) Built: 1911"
+    ]
+}

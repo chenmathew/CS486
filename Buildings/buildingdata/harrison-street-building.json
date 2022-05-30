@@ -1,0 +1,26 @@
+{
+    "address": "1025 SW Harrison Street, Portland, Oregon 97201",
+    "occupants": [
+        "Center for Lakes and Reservoirs"
+    ],
+    "features": [
+        "Center for Lakes and Reservoirs"
+    ],
+    "maps": [
+        "HARRISON STREET BUILDING FLOORPLANS.PDF",
+        "HSB ACCESSIBLE NARRATIVE.PDF",
+        "HSB AREA CALCULATION PLANS.PDF"
+    ],
+    "about": [
+        "The Harrison Street Building is a one-story building located along the Walk of the Heroines on Harrison Street just south of the South Greenhouse, east of Hoffmann Hall, and north of the Community Recreation Field.",
+        "The building was designed by the architect Don Byers and constructed in 1958/59 as an office building for the Automobile Dealers Association of Portland. PSU purchased the building on August 16, 1972 where it became the Personnel Services building serving as the University's human resources center. By 1977, Human Resources had relocated and the building was re-named the Harrison Street Building."
+    ],
+    "details": [
+        "Square Footage",
+        "Gross Square Footage: 2,029",
+        "Net Assignable Square Footage: 1,453",
+        "Building Code: HSB",
+        "Number of Levels: 1",
+        "Year(s) Built: 1958"
+    ]
+}

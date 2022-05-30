@@ -1,0 +1,42 @@
+{
+    "address": "1875 SW Park Avenue Portland, Oregon 97201-3220",
+    "occupants": [
+        "Library",
+        "OIT Computer Lab",
+        "The Learning Center "
+    ],
+    "features": [
+        "All Gender Restrooms: Rooms 325 & 327 (Multi-Stall occupancy)",
+        "Student Lounge",
+        "Computer Lab",
+        "Food & Drink"
+    ],
+    "maps": [
+        "MILLAR LIBRARY FLOORPLAN.PDF",
+        "MILLAR LIBRARY ACCESSIBLE NARRATIVE.PDF",
+        "ML AREA CALCULATION PLANS.PDF"
+    ],
+    "about": [
+        "The Branford P. Millar Library is located between SW 10th Avenue and SW Park Avenue, and the right of way for SW Harrison and Hall Streets positioned North of the Peter Stott Center and South of Blackstone Hall.",
+        "",
+        "Building naming history:",
+        "Branford Price Millar Library (ML), 1975-present",
+        "Library West (LIBW), 1967-1975",
+        "",
+        "The Millar Library was built over two major phases. Phase 1, completed January 19, 1968 comprises the western half of the building and cost $3 million. Its architects, Skidmore, Ownings & Merrill, designed the brutalist concrete library to juxtapose against pre-existing landscape features by sinking the building into its block and creating a green 'living room' space for the campus community that merged with the South Park Blocks.",
+        "The phase 2 addition began in June 1989 and was completed in April 1991 for $11 million. The addition expanded the building east while maintaining some of the original design's landscape including the incorporation of a convex wall of glass designed to surround a historic copper beech tree (Fagus sylvatica f. purpurea). A final third phase would have added an additional four floors onto the existing five floors but was never enacted.",
+        "",
+        "While PSU has always had a library, the first exclusive library building was originally located in what is now the northeastern portion of Smith Memorial Student Union. As Portland State College expanded into a University, the need for a larger research library became pressing. Because the Library site was already occupied by the similarly expanding College Center (now Smith), a new site was chosen across the Park Blocks. After the new library was constructed, the old Library became Library East and the new Library West. Until 2013, Library East occupied the first and second mezzanine floors of Smith Center before its Librarians and staff were finally merged into the Millar Library. While Library West (now Millar) functioned as the public face of PSU's library system, Library East was the home of Technical Services (later Resource Services), which included the Cataloging, Acquisitions, and Serials (later Electronic and Continuing Resources) departments as well as the Preservation and Digital Initiatives units.",
+        "",
+        "Library West was re-named the Branford Price Millar Library in June 1975 after PSU's second president, Branford Price Millar, who served from 1959-1968. The copper beech tree which functions as the centerpiece of the Millar Library was planted circa 1892 by the Watson family. Joseph Franklin Watson (1849-1922) and his wife, Mary Whalley Watson, occupied a house on the corner of Park and Hall starting circa 1880. Joseph Watson was an industrialist involved in a variety of mines, ironworks, shipbuilding and banking interests.",
+        "Historical photos of the Branford P. Millar Library from the University Digital Gallery"
+    ],
+    "details": [
+        "Square Footage",
+        "Gross Square Footage: 208,640",
+        "Net Assignable Square Footage: 134,809",
+        "Building Code: ML",
+        "Number of Levels: 6",
+        "Year(s) Built: 1968 (W); 1991 (E)"
+    ]
+}

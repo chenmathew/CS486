@@ -1,0 +1,23 @@
+{
+    "address": "950 SW College Street, Portland, Oregon 97201",
+    "occupants": [
+        "Biology Research Lab"
+    ],
+    "features": [
+        "Biology Research Lab"
+    ],
+    "maps": [
+        "RESEARCH GREENHOUSE FLOORPLANS.PDF",
+        "RGH AREA CALCULATION PLANS-.PDF",
+        "RGH ACCESSIBLE NARRATIVE.PDF"
+    ],
+    "about": [
+        "The PSU Research Greenhouse is a 5,000 square foot aluminum and polycarbonate facility south of the Peter Stott Center. The Greenhouse was completed in 2007 and designed to be extensible, though the planned second phase addition remains unbuilt as of 2017. The greenhouse consists of four independently controlled compartments, a head house, and a covered patio. The compartments are devoted exclusively to research projects by faculty in Biology, Physics, and Environmental Sciences and Resources. All rooms have independent temperature and lighting controls and controllers can be run remotely by researchers. ",
+        "In a remarkable achievement for a plant growth facility, the Research Greenhouse achieved LEED Silver certification for energy efficiency and sustainability through the use of sophisticated environmental controls and innovative architecture. Key green building features include: polycarbonate panels to insulate and allow for light transmission; open-grid permeable pavers and flow-through planters to filter stormwater runoff; daylighting and occupancy controls ensure lighting is used only when needed; and low-flow potting sinks, showers, and dual-flush toilets to reduce potable water demands."
+    ],
+    "details": [
+        "Square Footage:",
+        "Gross Square Footage: 5,181",
+        "Net Assignable Square Footage: 3,606"
+    ]
+}

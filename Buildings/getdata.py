@@ -19,15 +19,18 @@ with open('buildlinks.txt') as file:
         data[labels[0]] = b.text
         while counter < 9:
             b = browser.find_element(By.XPATH, "//*[@id='main-content']/div/div[2]/article/div/div/div[" + str(counter) + "]/div/div[2]")
+            #print(b)
             text2 = b.text.split("\n")
-            if labels[counter2] == "maps":
-                print(b.get_attribute("href"))
-            else:
-                data[labels[counter2]] = text2
+            #if labels[counter2] == "maps":
+            #    counter3 = 1
+            #    while counter3 < len(b):
+            #        pdfs = browser.find_element(By.XPATH, "//*[@id='main-content']/div/div[2]/article/div/div/div[6]/div/div[2]/div[" + str(counter3) + "]/a")
+            #        print(pdfs.get_attribute("href"))
+            #else:
+            data[labels[counter2]] = text2
             counter += 1
             counter2 += 1
-        #f = open('./buildingdata/' + newFileName + '.json', 'a')
-        f = open('test.json', 'a')
+        f = open('./buildingdata/' + newFileName + '.json', 'a')
         f.write(json.dumps(data, indent=4))
         f.close()
         counter2 = 1
@@ -35,3 +38,7 @@ with open('buildlinks.txt') as file:
         data = {}
 
 browser.close()
+#//*[@id="main-content"]/div/div[2]/article/div/div/div[6]/div/div[2]/div[1]/a
+#//*[@id="main-content"]/div/div[2]/article/div/div/div[6]/div/div[2]/div[2]/a
+#//*[@id="main-content"]/div/div[2]/article/div/div/div[6]/div/div[2]/div[3]/a
+#//*[@id="main-content"]/div/div[2]/article/div/div/div[6]/div/div[2]/div[1]/a

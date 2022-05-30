@@ -1,0 +1,36 @@
+{
+    "address": "1930 SW 4th Avenue, Portland, Oregon 97201-5304",
+    "occupants": [
+        "Civil and Environmental Engineering",
+        "Electrical and Computer Engineering",
+        "Maseeh College of Engineering and Computer Science -- Dean's Office",
+        "Maseeh College of Engineering and Computer Science --Computer Action Team",
+        "Mechanical and Materials Engineering",
+        "Oregon MESA Program"
+    ],
+    "features": [
+        "Student Lounge",
+        "Car Parking",
+        "Computer Lab"
+    ],
+    "maps": [
+        "ENGINEERING BUILDING FLOORPLANS.PDF",
+        "ENGINEERING BUILDING ACCESSIBLE NARRATIVE.PDF",
+        "EB AREA CALCULATION PLANS.PDF"
+    ],
+    "about": [
+        "The Engineering Building is a concrete and glass, five-story building located on SW 4th Avenue just south of the Fourth Avenue Building and City of Portland Development Tower. The basement of the Engineering Building pre-dates its construction and is actually part of the Fourth Avenue Building. Designed by the architectural firm, Zimmer Gunsul Frasca, the Engineering Building was completed in early 2006.",
+        "Building Naming History:",
+        "Engineering Building, 2007-present",
+        "Northwest Center for Engineering, Science, and Technology (NCEST), 2005-2007",
+        "The Engineering Building achieved LEED-NC Gold certification on completion and uses sustainable features to achieve a healthy, comfortable environment. Some of its key Green strategies include geothermal heating and cooling to save energy and eliminate the need for a cooling tower; well-positioned, operable windows to allow better air flow; and a rainwater harvesting system that collects storm water for the hydraulics lab and toilets."
+    ],
+    "details": [
+        "Square Footage",
+        "Gross Square Footage: 130,365",
+        "Net Assignable Square Footage: 77,945",
+        "Building Code: EB",
+        "Number of Levels: 5",
+        "Year(s) Built: 2006"
+    ]
+}

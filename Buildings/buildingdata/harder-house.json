@@ -1,0 +1,30 @@
+{
+    "address": "1604 SW 10th Avenue, Portland, Oregon 97201-3503",
+    "occupants": [
+        "System Science "
+    ],
+    "features": [
+        "All-Gender Restrooms: Two single-occupancy restrooms located in:",
+        "Basement (Room 5)",
+        "Floor 2 (Room 205)",
+        "Harder House does not maintain regularly scheduled hours and is only unlocked when staff are present."
+    ],
+    "maps": [
+        "HARDER HOUSE FLOORPLANS.PDF",
+        "HAR ACCESSIBLE NARRATIVE.PDF",
+        "HAR AREA CALCULATION PLANS.PDF"
+    ],
+    "about": [
+        "Harder House is a repurposed residential building that stands at the intersection of SW Market and Tenth, facing the Stratford student residence with its back to the Parkway. It has two floors above ground level and a basement. The building is home to PSU's first doctoral program, Systems Science.",
+        "Harder House was constructed around 1902/03 by brothers Samuel and Isidore Solomon who built matching homes next door to each other on 10th Ave.  While its twin was demolished in the mid-1960s, Harder House found new life as a commercial space.  By 1950, the house was leased to \"Cameron Bruce, Lawyer\" followed by \"Pacific Products Investment Company\" around 1952 who may have been responsible for the conversion of the original porch into an enclosed interior space.  In 1955 the building was acquired by James M. Harder for whom it is currently named.  Harder appears to have leased out the building during his brief ownership before selling it to PSU in November 1960 for $51,000."
+    ],
+    "details": [
+        "Square Footage",
+        "Gross Square Footage: 4,871",
+        "Net Assignable Square Footage: 3,440",
+        "Building Code: HAR",
+        "Number of Levels: 3",
+        "Year(s) Built: ca. 1902-1903",
+        " "
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "address": "1900 SW 4th Avenue, Portland, Oregon 97201-5350",
+    "occupants": [
+        "Asynchronous Research Center",
+        "Computer Action Team",
+        "Computer Science",
+        "Electrical and Computer Engineering",
+        "Emergency Operation Center",
+        "Engineering & Technology Management",
+        "Maseeh College of Engineering & Computer Science",
+        "Mechanical and Materials Engineering",
+        "Office of Information Technology",
+        "Transportation Research and Education Consortium"
+    ],
+    "features": [
+        "All Gender Restrooms: Room 000-21 Multi-stall occupancy on the lower level near the Circuit Lounge)",
+        "Lactation Space: Room V000-19 (Lower level outside the women's restroom near the Circuit Lounge)",
+        "Bike Parking (Indoor)",
+        "Computer Lab",
+        "Motorcycle & Scooter Parking",
+        "Car Parking",
+        "Student Lounge"
+    ],
+    "maps": [
+        "FOURTH AVENUE BUILDING FLOORPLANS.PDF",
+        "FAB ACCESSIBLE NARRATIVE.PDF",
+        "FAB AREA CALCULATION PLANS.PDF"
+    ],
+    "about": [
+        "The Fourth Avenue Building (FAB) sits on the east side of 4th Avenue with Harrison Street bounding the structure to its north. It consists of two levels above ground, a lower level below street level, and two additional underground levels of parking with 430 permit parking spaces. FAB is connected to the Engineering Building via its underground level. Separating FAB and the Engineering Building on the ground level is a seven-story tower that houses the City of Portland's Office of Planning and Development Review, Permit Center and Record Center.",
+        "Originally constructed in 1962, FAB was designed by architects Stanton, Boles, Maguire & Church for the Pacific Northwest Bell Telephone Company later known as US WEST. The original site consisted of the current second story and the above ground portions of the plaza and lower levels with an accompanying parking lot south of the building. In 1974 the subterranean portions of the building were expanded with two levels of parking and the plaza and lower levels extended south towards College Street. PSU began purchasing the building in phases starting in the fall of 1997 in order to house the Maseeh College of Engineering and Computer Science. In 1999 the seven-story City Development Center, designed by Yost Grube Hall, was added just south of the above ground portion of FAB and then in 2005, PSU's Engineering Building was constructed just south of the Development Center."
+    ],
+    "details": [
+        "Square Footage",
+        "Building Gross Square Footage: 135,470",
+        "Building Net Assignable Square Footage: 85,930",
+        "Parking Gross Square Footage: 236,707",
+        "Parking Net Assignable Square Footage: 150,146",
+        "Building Code: FAB",
+        "Number of Levels: 5",
+        "Year(s) Built: 1962; 1974"
+    ]
+}
