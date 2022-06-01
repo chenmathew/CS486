@@ -50,7 +50,10 @@
         "pinterestUrl": "",
         "tumblrUrl": "",
         "vimeoUrl": "",
-        "youtubeUrl": ""
+        "youtubeUrl": "",
+        "facebookUrl": "",
+        "twitterUrl": ""
+        
       },
       "profilePicture": null,
       "organizationType": {

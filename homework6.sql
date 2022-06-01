@@ -13,3 +13,8 @@ select
   MODE() within group (order by salary asc) as mode
 from agent;
 
+SELECT salary, count(*)
+FROM agent
+GROUP BY salary
+ORDER BY count(*) DESC
+LIMIT 3;
