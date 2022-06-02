@@ -2,7 +2,7 @@ create table organization_categories
 (
     id       integer not null
         constraint organization_categories_organization_id_fk
-            references organization2,
+            references organization,
     category varchar
 );
 

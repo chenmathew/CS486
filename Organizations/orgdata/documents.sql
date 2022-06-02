@@ -1,18 +1,3 @@
-create table organization_document
-(
-    id           integer not null
-        constraint organization_document_pk
-            primary key,
-    organization integer not null
-        constraint organization_document_organization_id_fk
-            references organization,
-    title        varchar not null,
-    link         varchar not null
-);
-
-create unique index organization_document_id_uindex
-    on organization_document (id);
-
 INSERT INTO organization_document (id, organization, title, link) VALUES (2051325, 336555, 'Constitution/Bylaws', 'https://pdx.campuslabs.com/engage/organization/amaportlandstate/documents/view/2051325');
 INSERT INTO organization_document (id, organization, title, link) VALUES (1897847, 336555, 'Constitution/Bylaws', 'https://pdx.campuslabs.com/engage/organization/amaportlandstate/documents/view/1897847');
 INSERT INTO organization_document (id, organization, title, link) VALUES (2048609, 250702, 'Constitution/Bylaws', 'https://pdx.campuslabs.com/engage/organization/phi-delta-theta-fraternity/documents/view/2048609');

@@ -2,7 +2,7 @@ create table organization_socials
 (
     id   integer not null
         constraint organization_socials_organization_id_fk
-            references organization2,
+            references organization,
     link varchar not null
 );
 
