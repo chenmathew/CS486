@@ -16,7 +16,7 @@ for filename in os.listdir(os.getcwd()):
                     cat = i['CategoryNames'][0]
                 else:
                     cat = "null"
-                out.write("INSERT INTO organization_categories (id, category) VALUES (" + id + ", " + cat + ");\n")
+                out.write("INSERT INTO organization_categories (id, category) VALUES (" + id + ", " + "'" + cat + "');\n")
                 print("INSERT INTO organization_categories (id, category) VALUES (" + id + ", " + cat + ");")
             f.close()
 
