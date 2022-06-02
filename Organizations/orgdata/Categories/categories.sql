@@ -1,11 +1,3 @@
-create table organization_categories
-(
-    id       integer not null
-        constraint organization_categories_organization_id_fk
-            references organization2,
-    category varchar
-);
-
 INSERT INTO organization_categories (id, category) VALUES (250822, Academic Groups);
 INSERT INTO organization_categories (id, category) VALUES (250799, Arts Groups);
 INSERT INTO organization_categories (id, category) VALUES (250725, Multi-Cultural Groups);
